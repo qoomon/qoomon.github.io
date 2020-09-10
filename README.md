@@ -1,2 +1,1 @@
-# [qoomon.github.io](https://qoomon.github.io)
-GitHub Pages
+# GitHub Pages [qoomon.github.io](https://qoomon.github.io)
